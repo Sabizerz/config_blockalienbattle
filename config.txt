@@ -1,0 +1,5 @@
+{ 
+    "g": "TL", 
+    "mf": "http://hit222.ld99.net/remote-assets/", 
+    "p": "remote-asset" 
+}
